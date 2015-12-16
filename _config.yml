@@ -1,0 +1,28 @@
+name: Cielo Chic
+favicon: null
+layout_spectrum: 0.10660486039705575
+typography_spectrum: 0.9938512539956719
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.663697462528944
+  lightness: 0.9993911001365632
+  saturation: 0.032092596869915724
+  rhythmicContrast: 0.6452190193813294
+purpose: []
